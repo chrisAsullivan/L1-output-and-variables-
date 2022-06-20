@@ -30,3 +30,16 @@ varaibles are containers that hold a value
 2. can only contain numbers letters and underscores
 3. if more than one word use camelcase or underscores to seperate words
 myfirstname or my_first_name
+
+
+## concatenation
++ adding strings together, appending (add to end)
++ "hello " + "world" = "hello world"
+
+## type cast
+forcing a data type on a value
+
+### to force an interger
+
+### to force a string into a interger
+"int(variablename)"
